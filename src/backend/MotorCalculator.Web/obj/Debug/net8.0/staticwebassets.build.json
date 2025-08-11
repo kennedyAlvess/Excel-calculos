@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7CWN6Ie16TWHS2jAzc9PBx3MhMZ9LbfYjnCj8jfGpoA=",
+  "Source": "MotorCalculator.Web",
+  "BasePath": "_content/MotorCalculator.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,16 @@
+/home/runner/work/Excel-calculos/Excel-calculos/src/backend/MotorCalculator.Application/bin/Debug/net8.0/MotorCalculator.Application.deps.json
+/home/runner/work/Excel-calculos/Excel-calculos/src/backend/MotorCalculator.Application/bin/Debug/net8.0/MotorCalculator.Application.dll
+/home/runner/work/Excel-calculos/Excel-calculos/src/backend/MotorCalculator.Application/bin/Debug/net8.0/MotorCalculator.Application.pdb
+/home/runner/work/Excel-calculos/Excel-calculos/src/backend/MotorCalculator.Application/bin/Debug/net8.0/MotorCalculator.Domain.dll
+/home/runner/work/Excel-calculos/Excel-calculos/src/backend/MotorCalculator.Application/bin/Debug/net8.0/MotorCalculator.Domain.pdb
+/home/runner/work/Excel-calculos/Excel-calculos/src/backend/MotorCalculator.Application/obj/Debug/net8.0/MotorCalculator.Application.csproj.AssemblyReference.cache
+/home/runner/work/Excel-calculos/Excel-calculos/src/backend/MotorCalculator.Application/obj/Debug/net8.0/MotorCalculator.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/Excel-calculos/Excel-calculos/src/backend/MotorCalculator.Application/obj/Debug/net8.0/MotorCalculator.Application.AssemblyInfoInputs.cache
+/home/runner/work/Excel-calculos/Excel-calculos/src/backend/MotorCalculator.Application/obj/Debug/net8.0/MotorCalculator.Application.AssemblyInfo.cs
+/home/runner/work/Excel-calculos/Excel-calculos/src/backend/MotorCalculator.Application/obj/Debug/net8.0/MotorCalculator.Application.csproj.CoreCompileInputs.cache
+/home/runner/work/Excel-calculos/Excel-calculos/src/backend/MotorCalculator.Application/obj/Debug/net8.0/MotorCalculator.Application.sourcelink.json
+/home/runner/work/Excel-calculos/Excel-calculos/src/backend/MotorCalculator.Application/obj/Debug/net8.0/MotorCalculator.Application.csproj.CopyComplete
+/home/runner/work/Excel-calculos/Excel-calculos/src/backend/MotorCalculator.Application/obj/Debug/net8.0/MotorCalculator.Application.dll
+/home/runner/work/Excel-calculos/Excel-calculos/src/backend/MotorCalculator.Application/obj/Debug/net8.0/refint/MotorCalculator.Application.dll
+/home/runner/work/Excel-calculos/Excel-calculos/src/backend/MotorCalculator.Application/obj/Debug/net8.0/MotorCalculator.Application.pdb
+/home/runner/work/Excel-calculos/Excel-calculos/src/backend/MotorCalculator.Application/obj/Debug/net8.0/ref/MotorCalculator.Application.dll

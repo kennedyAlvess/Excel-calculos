@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gz5LT35QW0PTWJNGgh2etslY4k/FmqbOkDB6EywnFJtdU6U84GoW2Ejvphpur/YESNxCQ/+eFmupS05WHcq03g==",
+  "success": true,
+  "projectFilePath": "/home/runner/work/Excel-calculos/Excel-calculos/src/backend/MotorCalculator.Application/MotorCalculator.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/fluentvalidation/12.0.0/fluentvalidation.12.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

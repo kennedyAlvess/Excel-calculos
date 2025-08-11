@@ -1,0 +1,6 @@
+@MotorCalculator.Web_HostAddress = http://localhost:5118
+
+GET {{MotorCalculator.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

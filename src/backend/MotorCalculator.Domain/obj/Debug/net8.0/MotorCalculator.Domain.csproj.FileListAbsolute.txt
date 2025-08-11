@@ -1,0 +1,12 @@
+/home/runner/work/Excel-calculos/Excel-calculos/src/backend/MotorCalculator.Domain/bin/Debug/net8.0/MotorCalculator.Domain.deps.json
+/home/runner/work/Excel-calculos/Excel-calculos/src/backend/MotorCalculator.Domain/bin/Debug/net8.0/MotorCalculator.Domain.dll
+/home/runner/work/Excel-calculos/Excel-calculos/src/backend/MotorCalculator.Domain/bin/Debug/net8.0/MotorCalculator.Domain.pdb
+/home/runner/work/Excel-calculos/Excel-calculos/src/backend/MotorCalculator.Domain/obj/Debug/net8.0/MotorCalculator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/Excel-calculos/Excel-calculos/src/backend/MotorCalculator.Domain/obj/Debug/net8.0/MotorCalculator.Domain.AssemblyInfoInputs.cache
+/home/runner/work/Excel-calculos/Excel-calculos/src/backend/MotorCalculator.Domain/obj/Debug/net8.0/MotorCalculator.Domain.AssemblyInfo.cs
+/home/runner/work/Excel-calculos/Excel-calculos/src/backend/MotorCalculator.Domain/obj/Debug/net8.0/MotorCalculator.Domain.csproj.CoreCompileInputs.cache
+/home/runner/work/Excel-calculos/Excel-calculos/src/backend/MotorCalculator.Domain/obj/Debug/net8.0/MotorCalculator.Domain.sourcelink.json
+/home/runner/work/Excel-calculos/Excel-calculos/src/backend/MotorCalculator.Domain/obj/Debug/net8.0/MotorCalculator.Domain.dll
+/home/runner/work/Excel-calculos/Excel-calculos/src/backend/MotorCalculator.Domain/obj/Debug/net8.0/refint/MotorCalculator.Domain.dll
+/home/runner/work/Excel-calculos/Excel-calculos/src/backend/MotorCalculator.Domain/obj/Debug/net8.0/MotorCalculator.Domain.pdb
+/home/runner/work/Excel-calculos/Excel-calculos/src/backend/MotorCalculator.Domain/obj/Debug/net8.0/ref/MotorCalculator.Domain.dll
