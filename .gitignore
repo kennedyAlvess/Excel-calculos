@@ -1,0 +1,30 @@
+# Build artifacts
+src/backend/**/bin/
+src/backend/**/obj/
+src/frontend/**/node_modules/
+src/frontend/**/.next/
+src/frontend/**/dist/
+src/frontend/**/build/
+
+# IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+*.ide
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+/tmp/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.development

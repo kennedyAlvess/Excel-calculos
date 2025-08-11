@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MotorCalculator.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c10f549a320c258cc8f16b757c1415c7fb91c1a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d524df479d5cfe570a8ac36ce41a3caa8a4a72f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("MotorCalculator.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MotorCalculator.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
