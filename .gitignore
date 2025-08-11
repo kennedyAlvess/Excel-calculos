@@ -1,0 +1,45 @@
+# Motor Calculator Application
+
+## Development
+```bash
+# Backend
+cd src/backend
+dotnet run --project MotorCalculator.Web
+
+# Frontend  
+cd src/frontend
+npm run dev
+```
+
+## Build artifacts and dependencies
+node_modules/
+dist/
+build/
+bin/
+obj/
+logs/
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+/tmp/
+
+# Screenshots and output
+*.png
+*.jpg
+*.jpeg
